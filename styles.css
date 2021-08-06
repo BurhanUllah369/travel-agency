@@ -1,0 +1,159 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  background: linear-gradient(to right, #a517ba, #5f1782);
+}
+header .col-md-7 h1 {
+  font-size: 72px;
+}
+.brand {
+  font-family: 'Pacifico', cursive;
+}
+.navbar {
+  width: 80%;
+  margin: auto;
+}
+.col-md-7 button {
+  width: 150px;
+  height: 40px;
+  background: linear-gradient(to right,  #e659ff, #fff);
+  border: 0px;
+  border-radius: 3px;
+  margin: 40px 20px;
+}
+.col-md-7 button:hover {
+  background: linear-gradient(to right, #a517ba, #5f1782);
+  color: white;
+}
+.navbar-toggler-icon {
+   background: white
+}
+.container-fluid ul li {
+  margin-right: 30px;
+}
+.container-fluid ul li a {
+  color: white;
+  text-decoration: none;
+}
+.container-fluid ul li a:hover {
+  color: white;
+}
+.col-md-5 img {
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.bottom-image {
+  width: 100%;
+}
+main .form {
+  width: 80%;
+  padding: 30px;
+  margin: 40px auto;
+  border: 1px solid transparent;
+  border-radius: 7px;
+  box-shadow: 1px 3px 3px #dedad9;
+}
+main .form input {
+  margin-bottom: 15px;
+  width: 250px;
+  height: 50px;
+  padding-left: 20px;
+  border-radius: 5px;
+  border: 2px solid #5f1782;
+}
+main .form button {
+  width: 250px;
+  height: 50px;
+  color: white;
+  background:  linear-gradient(to right, #a517ba, #5f1782);
+  outline: none !important;
+}
+main .form button:hover {
+  color: white;
+  outline: none;
+}
+main .row .col-md-4 {
+  position: relative;
+  margin-bottom: 30px !important;
+}
+main .row .col-md-4 .text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+main .container .row img {
+  width: 350px;
+  height: 300px;
+}
+main .destinations h3 {
+  color: white;
+  font-size: 40px !important;
+  margin-bottom: 30px;
+}
+main .row button {
+  width: 150px;
+  height: 40px;
+  color: black;
+  background: linear-gradient(to right, #a517ba, #fff);
+  border: 0px;
+  border-radius: 3px;
+}
+main .row button:hover {
+  background: linear-gradient(to right, #a517ba, #5f1782);
+  color: white;
+  transition: 0.6s;
+}
+main .row .more {
+  width: 150px;
+  height: 40px;
+  color: white;
+  background: linear-gradient(to right,  #a517ba, #5f1782);
+  border: 0px;
+  border-radius: 3px;
+}
+.wrapper {
+  width: 100%;
+  margin-top: 40px;
+  background: linear-gradient(to right,  #a517ba, #5f1782);
+}
+.wrapper img {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.wrapper p {
+  color: white;
+  line-height: 1.5em;
+  letter-spacing: 0.1rem;
+  margin: 50px auto !important;
+}
+.touch {
+  margin-top: 40px;
+
+}
+.touch h3 {
+  margin: 20px 0 20px 0;
+}
+.touch button {
+  width: 150px;
+  height: 40px;
+  color: white;
+  background: linear-gradient(to right,  #a517ba, #5f1782);
+  border: 0px;
+  border-radius: 3px;
+  margin: 20px 0 20px 0;
+}
+footer {
+  margin-top: 50px;
+  background: linear-gradient(to right,  #a517ba, #5f1782);
+}
+footer h1 {
+  margin-bottom: 30px;
+}
+footer img {
+  width: 100%;
+}
